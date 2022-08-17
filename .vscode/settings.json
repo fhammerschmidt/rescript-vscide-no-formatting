@@ -1,0 +1,8 @@
+{
+  "rescript.settings.askToStartBuild": true,
+  "rescript.settings.autoRunCodeAnalysis": false,
+  "rescript.settings.binaryPath": null,
+  "rescript.settings.codeLens": false,
+  "rescript.settings.inlayHints.enable": false,
+  "rescript.settings.inlayHints.maxLength": 25
+}
