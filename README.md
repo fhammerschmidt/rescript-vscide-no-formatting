@@ -3,5 +3,5 @@
 yarn
 ```
 
-2. open Foo.res
+2. open `Foo.res
 3. Try formatting
