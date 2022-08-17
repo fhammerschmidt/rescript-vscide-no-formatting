@@ -1,8 +1,7 @@
-Use yarn v1
-
+1. install (Use yarn v1)
 ```
 yarn
 ```
 
-open Foo.res
-Try formatting
+2. open Foo.res
+3. Try formatting
